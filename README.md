@@ -16,7 +16,7 @@
 
 <p align="center">[The Result]</p>
 
-![screenshot](challenge complete screenshot.jpg)<br>
+![screenshot](https://github.com/codewithace-Asher/product-preview-card-component/blob/917ffeb2003306ba9fa33d8c5736977753c276b8/challenge%20complete%20screenshot.jpg)<br>
 
 ---
 
